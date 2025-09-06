@@ -1,0 +1,15 @@
+# requirements.txt
+
+tensorflow>=2.10.0
+opencv-python
+imutils
+matplotlib
+Pillow
+scikit-learn
+pandas
+seaborn
+vit-keras
+shap
+tqdm
+ipython
+openpyxl  # Required by pandas for .xlsx support
